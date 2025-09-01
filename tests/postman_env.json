@@ -1,0 +1,7 @@
+{
+  "name": "CI Demo Env",
+  "values": [
+    { "key": "base_url", "value": "http://localhost:10000", "enabled": true }
+  ]
+}
+
